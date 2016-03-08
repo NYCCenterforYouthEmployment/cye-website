@@ -1,3 +1,6 @@
 [submodule "wp-content/plugins/formidable-honeypot"]
 	path = wp-content/plugins/formidable-honeypot
 	url = git@github.com:NYCCenterforYouthEmployment/cye-honeypot.git
+[submodule "wp-content/plugins/wordpress-seo"]
+	path = wp-content/plugins/wordpress-seo
+	url = git@github.com:NYCCenterforYouthEmployment/cye-wordpress-seo.git
