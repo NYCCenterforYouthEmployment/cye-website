@@ -4,3 +4,12 @@
 [submodule "wp-content/plugins/wordpress-seo"]
 	path = wp-content/plugins/wordpress-seo
 	url = git@github.com:NYCCenterforYouthEmployment/cye-wordpress-seo.git
+[submodule "wp-content/plugins/advanced-custom-fields-pro"]
+	path = wp-content/plugins/advanced-custom-fields-pro
+	url = git@github.com:NYCCenterforYouthEmployment/cye-acfpro.git
+[submodule "wp-content/plugins/formidable"]
+	path = wp-content/plugins/formidable
+	url = git@github.com:NYCCenterforYouthEmployment/cye-formidable.git
+[submodule "wp-content/themes/mayors-fund"]
+	path = wp-content/themes/mayors-fund
+	url = git@github.com:NYCCenterforYouthEmployment/cye-theme.git
