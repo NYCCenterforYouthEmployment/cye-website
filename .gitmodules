@@ -13,3 +13,6 @@
 [submodule "wp-content/themes/mayors-fund"]
 	path = wp-content/themes/mayors-fund
 	url = git@github.com:NYCCenterforYouthEmployment/cye-theme.git
+[submodule "wp-content/plugins/ithemes-security-pro"]
+	path = wp-content/plugins/ithemes-security-pro
+	url = git@git.cloudred.org:ithemes-security-pro
